@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}/flaskblog/bin/python",
+    "python.linting.pylintEnabled": false
+}
